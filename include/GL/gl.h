@@ -886,5 +886,6 @@ void glGetCompressedTexImage( GLenum target, GLint lod, GLvoid *img );
 #endif
 
 #include <GL/glext.h>
+#include <GL/stubs.h>
 
 #endif
